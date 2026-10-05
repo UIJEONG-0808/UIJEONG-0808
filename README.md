@@ -1,16 +1,29 @@
-## Hi there 👋
+# 안녕하세요, 데이터 분석가를 준비하고 있는 UIJEONG입니다.
 
-<!--
-**UIJEONG-0808/UIJEONG-0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+텍스트 데이터를 직접 수집하고 전처리한 뒤,
+데이터 속에서 의미 있는 패턴을 발견하고 해석하는 과정에 관심이 있습니다.
 
-Here are some ideas to get you started:
+## About Me
+- 데이터 분석 및 텍스트 데이터 분석에 관심이 있습니다.
+- Python을 활용한 데이터 수집, 전처리, 분석 경험이 있습니다.
+- 프로젝트를 통해 실제 데이터를 직접 다루는 경험을 쌓고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python
+- Pandas
+- Selenium
+- Playwright
+
+## Projects
+
+### YES24 리뷰 데이터 분석
+도서 리뷰 데이터를 직접 수집하고 전처리하여
+별점과 리뷰 텍스트 감성의 관계를 분석했습니다.
+
+### 10대 종합일간지 익명표현 분석
+신문기사 데이터를 수집하고 익명표현 사전을 구축하여
+언론사별 익명표현 사용 비율을 비교했습니다.
+
+### 기사 댓글 혐오표현 분석
+특정 분야의 관련 기사 댓글 데이터를 수집하고
+텍스트 분석 모델을 활용해 혐오표현을 정량적으로 분석했습니다.
